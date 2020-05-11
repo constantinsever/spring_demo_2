@@ -9,6 +9,8 @@ public class Demo1Application {
 	public static void main(String[] args) {
 		SpringApplication.run(Demo1Application.class, args);
 		System.out.println("started 03:47 din branch 2");
+		System.out.println("started 04:18 din branch 2");
+		
 	}
 
 }
